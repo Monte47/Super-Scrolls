@@ -13,12 +13,13 @@
 **BookIndexContainer**
 - BookIndexItem
 - NewBookForm
-- AddBookToShelfButton
+- BookshelfIndexContainer
 
 **BookIndexItemContainer**
 
 **BookDetailContainer**
 - BookDetail
+- BookshelfIndexContainer
 - ReviewForm
 - AddBookToShelfButton
 - ReviewsIndexItem
@@ -31,6 +32,9 @@
 
 **EditBookContainer**
 - EditBookForm
+
+**BookshelfIndexContainer**
+- BookshelfContainer
 
 **BookshelfContainer**
 - Bookshelves
