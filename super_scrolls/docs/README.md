@@ -10,13 +10,13 @@
 
 SuperScrolls is a web application inspired by GoodReads built using Ruby on Rails and React/Redux. By the end of week 9, this app will, at a minimum, satisfy the following criteria with smooth, bug-free navigation, adequate data and sufficient CSS styling:
 
--[ ] Hosting on Heroku
--[ ] New account creation, login, and demo login
--[ ] Books
--[ ] Bookshelves
--[ ] Reviews
--[ ] Read Status (will read, have read, etc.)
--[ ] Production README
+- [ ] Hosting on Heroku
+- [ ] New account creation, login, and demo login
+- [ ] Books
+- [ ] Bookshelves
+- [ ] Reviews
+- [ ] Read Status (will read, have read, etc.)
+- [ ] Production README
 
 ## Design Docs
 
@@ -60,7 +60,7 @@ SuperScrolls is a web application inspired by GoodReads built using Ruby on Rail
 
 ### Bonus Features (TBD)
 
--[ ] Implement Infinite Scrolling on Book Index Page
--[ ] Implement Unique FrontPage with login/signup forms/buttons
--[ ] Add Tags to Books
--[ ] Add Comments/Likes to Reviews
+- [ ] Implement Infinite Scrolling on Book Index Page
+- [ ] Implement Unique FrontPage with login/signup forms/buttons
+- [ ] Add Tags to Books
+- [ ] Add Comments/Likes to Reviews
