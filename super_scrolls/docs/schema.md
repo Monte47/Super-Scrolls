@@ -26,7 +26,7 @@ user_id     | integer   | not null, foreign key (references users), indexed
 title       | string    | not null
 
 
-##shelvings
+## shelvings
 column name | data type | details
 ------------|-----------|-----------------------
 id          | integer   | not null, primary key
