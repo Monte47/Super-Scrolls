@@ -26,11 +26,11 @@ SuperScrolls is a web application inspired by GoodReads built using Ruby on Rail
 * [DB Schema][schema]
 * [Sample State][sample-state]
 
-[wireframes]: docs/wireframes
-[components]: docs/component-hierarchy.md
-[api-endpoints]: docs/api-endpoints.md
-[schema]: docs/schema.md
-[sample-state]: docs/sample-state.md
+[wireframes]: https://github.com/Monte47/Super-Scrolls/tree/master/super_scrolls/docs/wireframes
+[components]: https://github.com/Monte47/Super-Scrolls/blob/master/super_scrolls/docs/component-hierarchy.md
+[api-endpoints]: https://github.com/Monte47/Super-Scrolls/blob/master/super_scrolls/docs/api-endpoints.md
+[schema]: https://github.com/Monte47/Super-Scrolls/blob/master/super_scrolls/docs/schema.md
+[sample-state]: https://github.com/Monte47/Super-Scrolls/blob/master/super_scrolls/docs/sample-state.md
 
 ## Implementation Timeline
 
