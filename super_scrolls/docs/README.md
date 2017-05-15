@@ -4,7 +4,7 @@
 [Trello link][trello]
 
 [heroku]: http://herokuapp.com
-[trello]: https://trello.com
+[trello]: https://trello.com/b/1lmkyQl4/goodreads-fullstack-project
 
 ## Minimum Viable Product
 
